@@ -257,5 +257,5 @@ function audio(){
     },7500);
 }
 
-const buttonSoundOn = document.getElementById('#soundon')
+
 document.getElementById('soundon').addEventListener('click', audio)
