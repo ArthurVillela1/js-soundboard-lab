@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    margin: 300px auto;
+}
+
+.buttons {
+    border-radius: 3px;
+    color: #873600;
+    width: 150px;
+    padding: 30px;
+    text-align: center;
+    font-size: 17px;
+    margin: 3px;
+    background-color: white;;
+}
+
+.buttons:hover{
+    background-color:black;
+    color:white;
+}
+
+.buttons2 {
+    border-radius: 3px;
+    color: #873600;
+    width: 150px;
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    margin: 3px;
+}
+
+.buttons2:hover{
+    background-color:black;
+    color:white;
+}
