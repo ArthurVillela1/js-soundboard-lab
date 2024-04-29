@@ -194,67 +194,149 @@ function audio(){
     var audio15 = document.getElementById('audio15');
     var audio16 = document.getElementById('audio16');
  
-    audio1.play();
+    buttonWorkIt.style.backgroundColor = 'black';
+    buttonWorkIt.style.color = 'white';
     
     setTimeout(() => {
         audio2.play();
+        buttonWorkIt.style.backgroundColor = 'white';
+        buttonWorkIt.style.color = '#873600';
+
+        buttonHarder.style.backgroundColor = 'black';
+        buttonHarder.style.color = 'white';
     },500);
 
     setTimeout(() => {
         audio3.play();
+        buttonHarder.style.backgroundColor = 'white';
+        buttonHarder.style.color = '#873600';
+
+        buttonMakeIt.style.backgroundColor = 'black';
+        buttonMakeIt.style.color = 'white';
     },1000);
 
     setTimeout(() => {
         audio4.play();
+        buttonMakeIt.style.backgroundColor = 'white';
+        buttonMakeIt.style.color = '#873600';
+
+        buttonBetter.style.backgroundColor = 'black';
+        buttonBetter.style.color = 'white';
     },1500);
 
     setTimeout(() => {
         audio5.play();
+        buttonBetter.style.backgroundColor = 'white';
+        buttonBetter.style.color = '#873600';
+
+        buttonDoIt.style.backgroundColor = 'black';
+        buttonDoIt.style.color = 'white';
     },2000);
 
     setTimeout(() => {
         audio6.play();
+        buttonDoIt.style.backgroundColor = 'white';
+        buttonDoIt.style.color = '#873600';
+
+        buttonFaster.style.backgroundColor = 'black';
+        buttonFaster.style.color = 'white';
     },2500);
 
     setTimeout(() => {
         audio7.play();
+        buttonFaster.style.backgroundColor = 'white';
+        buttonFaster.style.color = '#873600';
+
+        buttonMakesUs.style.backgroundColor = 'black';
+        buttonMakesUs.style.color = 'white';
     },3000);
 
     setTimeout(() => {
         audio8.play();
+        buttonMakesUs.style.backgroundColor = 'white';
+        buttonMakesUs.style.color = '#873600';
+
+        buttonStronger.style.backgroundColor = 'black';
+        buttonStronger.style.color = 'white';
     },3500);
 
     setTimeout(() => {
         audio9.play();
+        buttonStronger.style.backgroundColor = 'white';
+        buttonStronger.style.color = '#873600';
+
+        buttonMoreThan.style.backgroundColor = 'black';
+        buttonMoreThan.style.color = 'white';
     },4000);
 
     setTimeout(() => {
         audio10.play();
+        buttonMoreThan.style.backgroundColor = 'white';
+        buttonMoreThan.style.color = '#873600';
+
+        buttonEver.style.backgroundColor = 'black';
+        buttonEver.style.color = 'white';
     },4500);
 
     setTimeout(() => {
         audio11.play();
+        buttonEver.style.backgroundColor = 'white';
+        buttonEver.style.color = '#873600';
+
+        buttonHour.style.backgroundColor = 'black';
+        buttonHour.style.color = 'white';
     },5000);
 
     setTimeout(() => {
         audio12.play();
+        buttonHour.style.backgroundColor = 'white';
+        buttonHour.style.color = '#873600';
+
+        buttonAfter.style.backgroundColor = 'black';
+        buttonAfter.style.color = 'white';
     },5500);
 
     setTimeout(() => {
         audio13.play();
+        buttonAfter.style.backgroundColor = 'white';
+        buttonAfter.style.color = '#873600';
+
+        buttonOur.style.backgroundColor = 'black';
+        buttonOur.style.color = 'white';
     },6000);
 
     setTimeout(() => {
         audio14.play();
+        buttonOur.style.backgroundColor = 'white';
+        buttonOur.style.color = '#873600';
+
+        buttonWorkIs.style.backgroundColor = 'black';
+        buttonWorkIs.style.color = 'white';
     },6500);
 
     setTimeout(() => {
         audio15.play();
+        buttonWorkIs.style.backgroundColor = 'white';
+        buttonWorkIs.style.color = '#873600';
+
+        buttonNever.style.backgroundColor = 'black';
+        buttonNever.style.color = 'white';
     },7000);
 
     setTimeout(() => {
         audio16.play();
+        buttonNever.style.backgroundColor = 'white';
+        buttonNever.style.color = '#873600';
+
+        buttonOver.style.backgroundColor = 'black';
+        buttonOver.style.color = 'white';
     },7500);
+
+    setTimeout(() => {
+    buttonOver.style.backgroundColor = 'white';
+    buttonOver.style.color = '#873600';
+    },8000);
+    
 }
 
 
