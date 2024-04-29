@@ -341,3 +341,165 @@ function audio(){
 
 
 document.getElementById('soundon').addEventListener('click', audio)
+
+
+buttonWorkIt.addEventListener('mouseover', () => {
+    buttonWorkIt.style.backgroundColor = 'black';
+    buttonWorkIt.style.color = 'white';
+  });
+  
+buttonWorkIt.addEventListener('mouseout', () => {
+    buttonWorkIt.style.backgroundColor = 'white';
+    buttonWorkIt.style.color = '#873600';
+  });
+
+  
+buttonHarder.addEventListener('mouseover', () => {
+    buttonHarder.style.backgroundColor = 'black';
+    buttonHarder.style.color = 'white';
+  });
+  
+buttonHarder.addEventListener('mouseout', () => {
+    buttonHarder.style.backgroundColor = 'white';
+    buttonHarder.style.color = '#873600';
+  });
+
+buttonMakeIt.addEventListener('mouseover', () => {
+    buttonMakeIt.style.backgroundColor = 'black';
+    buttonMakeIt.style.color = 'white';
+  });
+  
+buttonMakeIt.addEventListener('mouseout', () => {
+    buttonMakeIt.style.backgroundColor = 'white';
+    buttonMakeIt.style.color = '#873600';
+  });
+
+buttonBetter.addEventListener('mouseover', () => {
+    buttonBetter.style.backgroundColor = 'black';
+    buttonBetter.style.color = 'white';
+  });
+  
+buttonBetter.addEventListener('mouseout', () => {
+    buttonBetter.style.backgroundColor = 'white';
+    buttonBetter.style.color = '#873600';
+  });
+
+buttonDoIt.addEventListener('mouseover', () => {
+    buttonDoIt.style.backgroundColor = 'black';
+    buttonDoIt.style.color = 'white';
+  });
+  
+buttonDoIt.addEventListener('mouseout', () => {
+    buttonDoIt.style.backgroundColor = 'white';
+    buttonDoIt.style.color = '#873600';
+  });
+
+buttonFaster.addEventListener('mouseover', () => {
+    buttonFaster.style.backgroundColor = 'black';
+    buttonFaster.style.color = 'white';
+  });
+  
+buttonFaster.addEventListener('mouseout', () => {
+    buttonFaster.style.backgroundColor = 'white';
+    buttonFaster.style.color = '#873600';
+  });
+
+buttonMakesUs.addEventListener('mouseover', () => {
+    buttonMakesUs.style.backgroundColor = 'black';
+    buttonMakesUs.style.color = 'white';
+  });
+  
+buttonMakesUs.addEventListener('mouseout', () => {
+    buttonMakesUs.style.backgroundColor = 'white';
+    buttonMakesUs.style.color = '#873600';
+  });
+
+buttonStronger.addEventListener('mouseover', () => {
+    buttonStronger.style.backgroundColor = 'black';
+    buttonStronger.style.color = 'white';
+  });
+  
+buttonStronger.addEventListener('mouseout', () => {
+    buttonStronger.style.backgroundColor = 'white';
+    buttonStronger.style.color = '#873600';
+  });
+
+buttonMoreThan.addEventListener('mouseover', () => {
+    buttonMoreThan.style.backgroundColor = 'black';
+    buttonMoreThan.style.color = 'white';
+  });
+  
+buttonMoreThan.addEventListener('mouseout', () => {
+    buttonMoreThan.style.backgroundColor = 'white';
+    buttonMoreThan.style.color = '#873600';
+  });
+
+buttonEver.addEventListener('mouseover', () => {
+    buttonEver.style.backgroundColor = 'black';
+    buttonEver.style.color = 'white';
+  });
+  
+buttonEver.addEventListener('mouseout', () => {
+    buttonEver.style.backgroundColor = 'white';
+    buttonEver.style.color = '#873600';
+  });
+
+buttonHour.addEventListener('mouseover', () => {
+    buttonHour.style.backgroundColor = 'black';
+    buttonHour.style.color = 'white';
+  });
+  
+buttonHour.addEventListener('mouseout', () => {
+    buttonHour.style.backgroundColor = 'white';
+    buttonHour.style.color = '#873600';
+  });
+
+buttonAfter.addEventListener('mouseover', () => {
+    buttonAfter.style.backgroundColor = 'black';
+    buttonAfter.style.color = 'white';
+  });
+  
+ buttonAfter.addEventListener('mouseout', () => {
+    buttonAfter.style.backgroundColor = 'white';
+    buttonAfter.style.color = '#873600';
+  });
+
+buttonOur.addEventListener('mouseover', () => {
+    buttonOur.style.backgroundColor = 'black';
+    buttonOur.style.color = 'white';
+  });
+  
+ buttonOur.addEventListener('mouseout', () => {
+    buttonOur.style.backgroundColor = 'white';
+    buttonOur.style.color = '#873600';
+  });
+
+buttonWorkIs.addEventListener('mouseover', () => {
+    buttonWorkIs.style.backgroundColor = 'black';
+    buttonWorkIs.style.color = 'white';
+  });
+  
+buttonWorkIs.addEventListener('mouseout', () => {
+    buttonWorkIs.style.backgroundColor = 'white';
+    buttonWorkIs.style.color = '#873600';
+  });
+
+buttonNever.addEventListener('mouseover', () => {
+    buttonNever.style.backgroundColor = 'black';
+    buttonNever.style.color = 'white';
+  });
+  
+buttonNever.addEventListener('mouseout', () => {
+    buttonNever.style.backgroundColor = 'white';
+    buttonNever.style.color = '#873600';
+  });
+
+buttonOver.addEventListener('mouseover', () => {
+    buttonOver.style.backgroundColor = 'black';
+    buttonOver.style.color = 'white';
+  });
+  
+buttonOver.addEventListener('mouseout', () => {
+    buttonOver.style.backgroundColor = 'white';
+    buttonOver.style.color = '#873600';
+  });
